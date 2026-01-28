@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Purpose
 
-This is an SEO content hub for AvaTrade partner code **128979**. The goal is to rank for "AvaTrade Partner Code" and related keywords. Content is served via GitHub Pages at `avatradepartnercode.github.io/avatradepartnercode/`.
+This is a content hub for AvaTrade partner code **128979**. Content is served via GitHub Pages at `avatradepartnercode.github.io/avatradepartnercode/`.
 
 ## Repository Structure
 
